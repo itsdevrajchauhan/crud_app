@@ -139,7 +139,8 @@ Read
 
 ---
 Create
-<img width="961" height="668" alt="image" src="https://github.com/user-attachments/assets/42fd4f2b-5fa0-473a-9573-d7994e32d472" />
+<img width="959" height="740" alt="image" src="https://github.com/user-attachments/assets/9bbd81b3-83e0-4317-ad8e-766a21cb4125" />
+
 
 ---
 Update
@@ -148,7 +149,8 @@ Update
 ---
 Delete
 
-<img width="960" height="627" alt="image" src="https://github.com/user-attachments/assets/6fee9045-e2b8-4bf7-99d3-86d9eb508bdd" />
+<img width="960" height="751" alt="image" src="https://github.com/user-attachments/assets/eed8cc8b-e41a-4a04-88a4-516504dc2343" />
+
 
 
 ---
