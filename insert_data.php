@@ -14,7 +14,8 @@ if (
         header('location : index.php?message=You need to fill in the first name ! required');
     } else {
 
-        $query = "insert into students(firstName,lastName,age)values ('$fname','$lname','age')";
+        $query = "insert into students(firstName,lastName,age)values ('$fname','$lname','
+        age')";
         $result = mysqli_query($connection, $query);
 
 
